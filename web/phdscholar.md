@@ -32,11 +32,11 @@ The GPA from their last two years of relevant academic study must be equivalent 
 ## What are we looking for?
 
 In general terms, here are some hints and suggestions:
-•	Fit within our group – usually evidenced by complementary research interests and methods, or evidence of publication(s) that match our research foci.
-•	Visibility in scholarly communication – for example, a website with up-to-date information about your work and research.
-•	Where relevant, evidence of GIS and/or coding expertise – for example, use of R and spatial packages.
-•	Quality of your written English and communication skills.
-•	As a developing independent scholar – the ability to demonstrate self-motivation, and proactivity in your research.
+-	**Fit within our group** – usually evidenced by complementary research interests and methods, or evidence of publication(s) that match our research foci.
+-	**Visibility in the academic community and scholarly communication** – for example, a website with up-to-date information about your work and research.
+-	Where relevant, **evidence of GIS and/or coding expertise** – for example, use of R and spatial packages.
+-	**Quality of your written English and communication skills**.
+-	As a developing independent scholar – the ability to demonstrate **self-motivation, and proactivity** in your research.
 
 ## What should I do next?
 
