@@ -6,7 +6,7 @@ For more information on potential projects contact Prof Malcolm Campbell (Malcol
 
 ## UC Doctoral Scholarships.
 
-Amount $32,000 per annum (2025) and tuition fees at the domestic rate. Tenure 3 years. See the link on the UC website. 
+Amount $32,000 per annum (2025) and tuition fees at the domestic rate. Tenure 3 years. See the link on the UC website. [UC doctoral announcement](https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships)
 The next UC Doctoral Scholarship round will open in August and close in October 2025 for those starting their studies in 2026. 
 More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
 The scholarships are available to support work on specific funded projects only.
