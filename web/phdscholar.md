@@ -2,7 +2,7 @@
 
 The GeoHealth Laboratory normally supports a small number of competitively awarded PhD, Masters and Internship students. 
 The projects are focused on topics in GeoHealth and usually are closely related to the needs of the health sector. 
-For more information on potential projects contact Prof Malcolm Campbell (Malcolm.Campbell@Canterbury.ac.nz) after reading the information on this page in full.
+For more information on potential projects contact Professor Malcolm Campbell (Malcolm.Campbell at Canterbury.ac.nz) after reading the information on this page in full.
 
 ## **UC Doctoral Scholarships.**
 
@@ -18,7 +18,12 @@ The scholarships are available to support work on specific funded projects only.
 
 ## **Masters Scholarships.**
 
-Get in touch if you are interested in undertaking a GeoHealth masters project. We often have scholarships available. Send a 1-page outline of a proposed GeoHealth project to one of the Directors. This could be as part of a MURR, MGDS, MDRR or MSc/MA in Geography among other subjects or degrees.
+Get in touch if you are interested in undertaking a GeoHealth masters project. We often have scholarships available. Send a 1-page outline of a proposed GeoHealth project to the Director Professor Malcolm Campbell (Malcolm.Campbell at Canterbury.ac.nz). This could be as part of a 
+[MURR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-urban-resilience-and-renewal)
+[MGDS,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-geospatial-data-science)
+[MDRR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-disaster-risk-and-resilience/) or 
+[MSc/MA in Geography](https://www.canterbury.ac.nz/study/academic-study/subjects/geography-pg)
+among other subjects or degrees.
 
 ## **Internships.**
 
