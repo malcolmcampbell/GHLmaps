@@ -19,11 +19,11 @@ The scholarships are available to support work on specific funded projects only.
 ## **Masters Scholarships.**
 
 Get in touch if you are interested in undertaking a GeoHealth masters project. We often have scholarships available. Send a 1-page outline of a proposed GeoHealth project to the Director Professor Malcolm Campbell (Malcolm.Campbell at Canterbury.ac.nz). This could be as part of a 
-[MURR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-urban-resilience-and-renewal)
-[MGDS,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-geospatial-data-science)
-[MDRR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-disaster-risk-and-resilience/) or 
-[MSc/MA in Geography](https://www.canterbury.ac.nz/study/academic-study/subjects/geography-pg)
-among other subjects or degrees.
+-	[MURR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-urban-resilience-and-renewal)
+-	[MGDS,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-geospatial-data-science)
+-	[MDRR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-disaster-risk-and-resilience/) or 
+-	[MSc/MA in Geography](https://www.canterbury.ac.nz/study/academic-study/subjects/geography-pg)
+-	among other subjects or degrees.
 
 ## **Internships.**
 
