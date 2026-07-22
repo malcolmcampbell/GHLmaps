@@ -2,12 +2,17 @@
 
 The GeoHealth Laboratory normally supports a small number of competitively awarded PhD, Masters and Internship students. 
 The projects are focused on topics in GeoHealth and usually are closely related to the needs of the health sector. 
-For more information on potential projects contact Prof Malcolm Campbell (Malcolm.Campbell@Canterbury.ac.nz) or Prof. Simon Kingham (simon.kingham@canterbury.ac.nz) after reading the information on this page in full.
+For more information on potential projects contact Prof Malcolm Campbell (Malcolm.Campbell@Canterbury.ac.nz) after reading the information on this page in full.
 
 ## **UC Doctoral Scholarships.**
 
-Amount $32,000 per annum (2025) and tuition fees at the domestic rate. Tenure 3 years. See the link on the UC website [UC doctoral announcement](https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships).
-The next UC Doctoral Scholarship round will open in August and close in October 2025 for those starting their studies in 2026. 
+Amount $32,650 per year and tuition fees at domestic rate (2026). Tenure 3 years. See the link on the UC website [UC doctoral announcement](https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships).
+Students who intend to start their doctoral studies before the 1st July 2027, please apply in the next application round - applications open 20 August, and close 15 October.
+
+Students can make an application for the following Core Doctoral scholarships within one of two application rounds:
+  May - for students planning to start before end of 2026; opens 20 March, closes 15 May.
+  October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes October 2026
+
 More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
 The scholarships are available to support work on specific funded projects only.
 
