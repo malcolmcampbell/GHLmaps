@@ -7,7 +7,7 @@ For more information on potential projects contact Professor Malcolm Campbell (M
 ## **UC Doctoral Scholarships.**
 
 Amount $32,650 per year and tuition fees at domestic rate (2026). Tenure 3 years. See the link on the UC website [UC doctoral announcement](https://www.canterbury.ac.nz/study/getting-started/scholarships/doctoral-scholarships).
-Students who intend to start their doctoral studies before the 1st July 2027, please apply in the next application round - applications open 20 August, and close 15 October.
+Students who intend to start their doctoral studies before the 1st July 2027, please apply in the next application round - applications open 20 August, and close 15 October (NZT Time Zone: 15 Oct 2026 11:59 PM).
 
 Students can make an application for the following Core Doctoral scholarships within one of two application rounds:
 
