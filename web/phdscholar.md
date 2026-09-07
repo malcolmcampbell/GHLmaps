@@ -62,10 +62,10 @@ When sending us an email about a potential PhD, you will need to prepare your CV
 
 ## **Important note - Funding.**
 
-Securing appropriate funding is a very important aspect of doing a PhD and a common obstacle that needs to be considered as early as possible, normally pre-application. 
+Securing appropriate funding is a very important aspect of doing a PhD and a common obstacle that needs to be considered as early as possible, normally pre-application for a Ph.D. programme. 
 **If there is no clear pathway for funding, it is unlikely you will succeed in your studies, and unlikely any application will be successful.**
 While obtaining scholarships for PhD is usually challenging and highly competitive, securing funding is not impossible. 
-You must comment on how you plan to fund your potential study and if you have already secured funding.
+You must comment on how you plan to fund your potential study and if you have already secured funding. As a general rule, it is extremely unlikely that self funded applicants will be considered.
 
 Please write clearly and concisely. Thanks again for your interest! 
 **Good Luck.**
