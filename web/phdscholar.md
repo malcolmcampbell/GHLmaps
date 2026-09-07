@@ -59,6 +59,7 @@ When sending us an email about a potential PhD, you will need to prepare your CV
 -	A **short summary of one of our recent articles** with your thoughts on how you would use the article(s) for your research and how you might extend the work.
 -	How you might **fit into a wider research team**. Think about links to GHL, GRI and the wider disciplines of Geography and Health at UC.
 -	**Why New Zealand?** Outline the rationale for choosing the GHL at the University of Canterbury in Christchurch.
+-	GPA Report. If you have completed study outside New Zealand, you will need to order a Premium GPA Report from Scholaro to calculate the GPA of the final two years of your highest completed overseas qualification. If your Master's was one year of study, calculate the final year of your Bachelor's study on a separate report. Note that this is not required for qualifications obtained in New Zealand.
 
 ## **Important note - Funding.**
 
