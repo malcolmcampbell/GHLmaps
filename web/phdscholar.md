@@ -10,8 +10,10 @@ Amount $32,650 per year and tuition fees at domestic rate (2026). Tenure 3 years
 Students who intend to start their doctoral studies before the 1st July 2027, please apply in the next application round - applications open 20 August, and close 15 October.
 
 Students can make an application for the following Core Doctoral scholarships within one of two application rounds:
-  ~~May - for students planning to start before end of 2026; opens 20 March, closes 15 May.~~
-  October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes October 2026
+
+~~May - for students planning to start before end of 2026; opens 20 March, closes 15 May.~~
+  
+October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes October 2026
 
 More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
 The scholarships are available to support work on specific funded projects only.
