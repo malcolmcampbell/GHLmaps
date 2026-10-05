@@ -15,9 +15,6 @@ Students can make an application for the following Core Doctoral scholarships wi
   
 October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes 15 October 2026 (NZ time).
 
-More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
-The scholarships are available to support work on specific funded projects only.
-
 ## **Postgraduate study – further information.**
 
 Before you send an email, please familiarise yourself with our work. 
@@ -48,6 +45,8 @@ When sending us an email about a potential PhD, you will need to prepare your CV
 -	**Why New Zealand?** Outline the rationale for choosing the GHL at the University of Canterbury in Christchurch.
 -	GPA Report. If you have completed study outside New Zealand, you will need to order a Premium GPA Report from Scholaro to calculate the GPA of the final two years of your highest completed overseas qualification. If your Master's was one year of study, calculate the final year of your Bachelor's study on a separate report. Note that this is not required for qualifications obtained in New Zealand.
 
+Please write clearly and concisely. Thanks again for your interest!
+
 ## **Important note - Funding.**
 
 Securing appropriate funding is a very important aspect of doing a PhD and a common obstacle that needs to be considered as early as possible, normally pre-application for a Ph.D. programme. 
@@ -66,10 +65,6 @@ Get in touch if you are interested in undertaking a GeoHealth masters project. W
 
 ## **Internships.**
 
-We often have projects are closely related to the GeoHealth interests and students have opportunities for collaboration with the wider GeoHealth Lab team. These internships normally occur over the summer period (Nov-Feb in NZ).
+We often have projects are closely related to the GeoHealth interests and students have opportunities for collaboration with the wider GeoHealth Lab team. These internships normally occur over the summer period (Nov-Feb in NZ). Internships are normally advertised on the GHL website.
 
-
-
-Please write clearly and concisely. Thanks again for your interest! 
 **Good Luck.**
-
