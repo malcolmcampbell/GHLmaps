@@ -13,7 +13,7 @@ Students can make an application for the following Core Doctoral scholarships wi
 
 ~~May - for students planning to start before end of 2026; opens 20 March, closes 15 May.~~
   
-October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes October 2026
+October - for students planning to start in 2027 before 1st July 2027; opens August 2026, closes 15 October 2026 (NZ time).
 
 More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
 The scholarships are available to support work on specific funded projects only.
