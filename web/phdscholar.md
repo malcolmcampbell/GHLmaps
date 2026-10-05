@@ -18,19 +18,6 @@ October - for students planning to start in 2027 before 1st July 2027; opens Aug
 More information below. UC Connect Doctoral Scholarship - These scholarships are co-funded by UC and external agencies to support students for study towards a research doctoral degree at the University. 
 The scholarships are available to support work on specific funded projects only.
 
-## **Masters Scholarships.**
-
-Get in touch if you are interested in undertaking a GeoHealth masters project. We often have scholarships available. Send a 1-page outline of a proposed GeoHealth project to the Director Professor Malcolm Campbell (Malcolm.Campbell at Canterbury.ac.nz). This could be as part of a 
--	[MURR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-urban-resilience-and-renewal)
--	[MGDS,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-geospatial-data-science)
--	[MDRR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-disaster-risk-and-resilience/) or 
--	[MSc/MA in Geography](https://www.canterbury.ac.nz/study/academic-study/subjects/geography-pg)
--	among other subjects or degrees.
-
-## **Internships.**
-
-We often have projects are closely related to the GeoHealth interests and students have opportunities for collaboration with the wider GeoHealth Lab team. These internships normally occur over the summer period (Nov-Feb in NZ).
-
 ## **Postgraduate study – further information.**
 
 Before you send an email, please familiarise yourself with our work. 
@@ -67,6 +54,21 @@ Securing appropriate funding is a very important aspect of doing a PhD and a com
 **If there is no clear pathway for funding, it is unlikely you will succeed in your studies, and unlikely any application will be successful.**
 While obtaining scholarships for PhD is usually challenging and highly competitive, securing funding is not impossible. 
 You must comment on how you plan to fund your potential study and if you have already secured funding. As a general rule, it is extremely unlikely that self funded applicants will be considered.
+
+## **Masters Scholarships.**
+
+Get in touch if you are interested in undertaking a GeoHealth masters project. We often have scholarships available. Send a 1-page outline of a proposed GeoHealth project to the Director Professor Malcolm Campbell (Malcolm.Campbell at Canterbury.ac.nz). This could be as part of a 
+-	[MURR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-urban-resilience-and-renewal)
+-	[MGDS,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-geospatial-data-science)
+-	[MDRR,](https://www.canterbury.ac.nz/study/academic-study/qualifications/master-of-disaster-risk-and-resilience/) or 
+-	[MSc/MA in Geography](https://www.canterbury.ac.nz/study/academic-study/subjects/geography-pg)
+-	among other subjects or degrees.
+
+## **Internships.**
+
+We often have projects are closely related to the GeoHealth interests and students have opportunities for collaboration with the wider GeoHealth Lab team. These internships normally occur over the summer period (Nov-Feb in NZ).
+
+
 
 Please write clearly and concisely. Thanks again for your interest! 
 **Good Luck.**
